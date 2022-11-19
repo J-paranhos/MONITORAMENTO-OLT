@@ -1,3 +1,10 @@
-# MONITORAMENTO-OLT
+# MONITORAMENTO EQUIPAMENTOS DE TELECOMUNICAÇÃO PELO TELEGRAM
 
-https://www.youtube.com/shorts/-tRKfbQSecc
+
+
+
+<div align="left">
+      <a href="https://www.youtube.com/shorts/-tRKfbQSecc">
+         <img src="https://images.wondershare.com/recoverit/article/2019/12/youtube-problem-1.jpg" style="width:100%;">
+      </a>
+</div>
